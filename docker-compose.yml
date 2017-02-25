@@ -1,0 +1,4 @@
+teamcityagent:
+  build: teamcity-agent
+  restart: always
+
